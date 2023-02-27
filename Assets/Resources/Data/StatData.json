@@ -1,0 +1,32 @@
+{
+    "stats": [
+	    {
+		  "shipCode": "1",
+		  "reactor": "8",
+		  "hp": "30",
+		  "maxHp": "30",
+		  "piloting": "1",
+		  "doors": "1",
+		  "sensors": "1",
+		  "medbay": "1",
+		  "oxygen": "1",
+		  "shields": "2",
+		  "engines": "2",
+		  "weapons": "3"
+		},
+	    {
+		  "shipCode": "2",
+		  "reactor": "8",
+		  "hp": "8",
+		  "maxHp": "8",
+		  "piloting": "1",
+		  "doors": "1",
+		  "sensors": "1",
+		  "medbay": "0",
+		  "oxygen": "1",
+		  "shields": "2",
+		  "engines": "1",
+		  "weapons": "2"
+		}
+	]
+} 
